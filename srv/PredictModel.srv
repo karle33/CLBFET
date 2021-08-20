@@ -1,0 +1,6 @@
+float32[] x
+---
+# result
+float32[] y_out
+float32[] var
+bool result
